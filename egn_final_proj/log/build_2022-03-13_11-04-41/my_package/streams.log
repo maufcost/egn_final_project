@@ -1,0 +1,26 @@
+[1.690s] Invoking command in '/home/mauricio/Desktop/egn_final_proj/src/my_package': PYTHONPATH=/home/mauricio/Desktop/egn_final_proj/install/my_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_package build --build-base /home/mauricio/Desktop/egn_final_proj/build/my_package/build install --prefix /home/mauricio/Desktop/egn_final_proj/install/my_package --record /home/mauricio/Desktop/egn_final_proj/build/my_package/install.log --single-version-externally-managed
+[2.084s] /usr/local/lib/python3.8/dist-packages/setuptools/dist.py:731: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[2.084s]   warnings.warn(
+[2.085s] /usr/local/lib/python3.8/dist-packages/setuptools/dist.py:731: UserWarning: Usage of dash-separated 'install-scripts' will not be supported in future versions. Please use the underscore name 'install_scripts' instead
+[2.085s]   warnings.warn(
+[2.165s] running egg_info
+[2.167s] writing ../../build/my_package/my_package.egg-info/PKG-INFO
+[2.169s] writing dependency_links to ../../build/my_package/my_package.egg-info/dependency_links.txt
+[2.170s] writing entry points to ../../build/my_package/my_package.egg-info/entry_points.txt
+[2.171s] writing requirements to ../../build/my_package/my_package.egg-info/requires.txt
+[2.173s] writing top-level names to ../../build/my_package/my_package.egg-info/top_level.txt
+[2.180s] reading manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[2.184s] running build
+[2.184s] running build_py
+[2.186s] running install
+[2.186s] /usr/local/lib/python3.8/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.187s]   warnings.warn(
+[2.195s] running install_lib
+[2.197s] copying /home/mauricio/Desktop/egn_final_proj/build/my_package/build/lib/my_package/webcam_sub.py -> /home/mauricio/Desktop/egn_final_proj/install/my_package/lib/python3.8/site-packages/my_package
+[2.197s] copying /home/mauricio/Desktop/egn_final_proj/build/my_package/build/lib/my_package/webcam_pub.py -> /home/mauricio/Desktop/egn_final_proj/install/my_package/lib/python3.8/site-packages/my_package
+[2.201s] running install_data
+[2.202s] running install_egg_info
+[2.207s] running install_scripts
+[2.246s] Installing img_publisher script to /home/mauricio/Desktop/egn_final_proj/install/my_package/lib/my_package
+[2.247s] Installing img_subscriber script to /home/mauricio/Desktop/egn_final_proj/install/my_package/lib/my_package
+[2.301s] Invoked command in '/home/mauricio/Desktop/egn_final_proj/src/my_package' returned '0': PYTHONPATH=/home/mauricio/Desktop/egn_final_proj/install/my_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_package build --build-base /home/mauricio/Desktop/egn_final_proj/build/my_package/build install --prefix /home/mauricio/Desktop/egn_final_proj/install/my_package --record /home/mauricio/Desktop/egn_final_proj/build/my_package/install.log --single-version-externally-managed

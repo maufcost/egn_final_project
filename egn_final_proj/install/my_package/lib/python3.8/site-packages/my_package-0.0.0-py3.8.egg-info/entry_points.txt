@@ -1,0 +1,4 @@
+[console_scripts]
+img_publisher = my_package.webcam_pub:main
+img_subscriber = my_package.webcam_sub:main
+
